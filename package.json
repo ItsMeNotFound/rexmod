@@ -1,6 +1,6 @@
 {
-  "name": "discord-moderation-bot",
-  "version": "2.0.0",
+  "name": "rex-moderation",
+  "version": "0.1",
   "description": "",
   "main": "index.js",
   "dependencies": {
@@ -21,6 +21,7 @@
     "moment": "^2.27.0",
     "moment-duration-format": "^2.3.2",
     "ms": "^2.1.2",
+    "node": "14.x"
     "node-canvas-with-twemoji-and-discord-emoji": "^1.2.1",
     "node-fetch": "^2.6.0",
     "node-superfetch": "^0.1.11",
